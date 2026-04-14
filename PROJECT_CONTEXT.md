@@ -25,6 +25,12 @@
 ```
 
 ## Telegram Bot Token
-(заполнить после создания через @BotFather)
+8648825506:AAH277IkQAzdGJkYktyRNIDXYGzK5TBv43s
+
+## Telegram Chat ID
+568554255
+
+## Google Sheets URL
+https://docs.google.com/spreadsheets/d/1ltECWf5khMREvG7HXnrQ6Q0qHrMklMWJdY36QxxzCko/export?format=csv
 
 ## Примечания

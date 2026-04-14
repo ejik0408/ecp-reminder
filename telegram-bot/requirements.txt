@@ -1,0 +1,12 @@
+# Google Sheets API
+gspread>=6.0.0
+oauth2client>=4.1.3
+
+# Telegram Bot
+aiogram>=3.0.0
+
+# Scheduler
+apscheduler>=3.10.0
+
+# Utils
+python-dotenv>=1.0.0
